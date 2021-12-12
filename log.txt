@@ -1,0 +1,3 @@
+the variable age is defined, initial value is 18
+the variable sex is defined, initial value is female
+the value of two strings is this is a female ,whose age is 18
